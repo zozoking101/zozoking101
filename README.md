@@ -12,7 +12,7 @@ Ever since I could hold a pencil, I've been immersed in the fascinating world of
 * 🚀  I'm currently working on [To Do List App](http://github.com/zozoking101/To-Do-List-App-Backend-Project)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on Web Scraping or Web Automation Projects
-* ⚡  I'm into anime! 🌟
+* ⚡  I watch anime 🌟
 
 ### Skills
 
