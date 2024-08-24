@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zoe Oladokun
 ====================================================================================================================================
 
-Data Scientist, Machine Learning Engineer and Backend Developer
+I'm a Data Scientist and Backend Developer
 ---------------------------------------------------------------
 
 Ever since I could hold a pencil, I've been immersed in the fascinating world of coding. From early encounters with HTML, CSS, and JavaScript to delving into the intricate realms of Python frameworks like Flask, my journey in programming has been a thrilling adventure. Now, on the path to mastery, I'm not just relearning these skills; I'm augmenting them with new ones. My goal? To craft a future where I'm not just a coder, but a versatile backend developer, a discerning data scientist, and an adept machine learning engineer. Join me as I navigate this ever-evolving landscape of technology, curiosity as my compass and code as my language.
