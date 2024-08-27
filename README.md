@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
 I'm Zoë Oladokun, a Data Scientist and Backend Developer. I've always been drawn to coding, starting with HTML and JavaScript and growing into more complex languages like Python. I’m focused on deepening my expertise in data science and machine learning. I aim to become a versatile developer capable of tackling backend systems and cutting-edge AI challenges.
@@ -39,3 +39,6 @@ I'm Zoë Oladokun, a Data Scientist and Backend Developer. I've always been draw
 
 
 <div width="100%" align="center"><a href="https://github.com/zozoking101/Beginning-Node.js-Basarat-Ali-Syed-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zozoking101&repo=Beginning-Node.js-Basarat-Ali-Syed-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/zozoking101/Django-for-Beginners-William-S-Vincent-Projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zozoking101&repo=Django-for-Beginners-William-S-Vincent-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
+![](https://komarev.com/ghpvc/?username=zozoking_101&color=orange&style=plastic)
