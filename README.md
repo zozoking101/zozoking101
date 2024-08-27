@@ -1,18 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zoë Oladokun
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-I'm a Data Scientist and Backend Developer
----------------------------------------------------------------
+I'm Zoë Oladokun, a Data Scientist and Backend Developer. I've always been drawn to coding, starting with HTML and JavaScript and growing into more complex languages like Python. I’m focused on deepening my expertise in data science and machine learning. I aim to become a versatile developer capable of tackling backend systems and cutting-edge AI challenges.
 
-Ever since I could hold a pencil, I've been immersed in the fascinating world of coding. From early encounters with HTML, CSS, and JavaScript to delving into the intricate realms of Python frameworks like Flask, my journey in programming has been a thrilling adventure. Now, on the path to mastery, I'm not just relearning these skills; I'm augmenting them with new ones. My goal? To craft a future where I'm not just a coder, but a versatile backend developer, a discerning data scientist, and an adept machine learning engineer. Join me as I navigate this ever-evolving landscape of technology, curiosity as my compass and code as my language.
-
-* 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/zozoking101)
 * ✉️  You can contact me at [zoe.oladokun@gmail.com](mailto:zoe.oladokun@gmail.com)
-* 🚀  I'm currently working on [To Do List App](http://github.com/zozoking101/To-Do-List-App-Backend-Project)
-* 🧠  I'm learning Node.js
+* 🚀  I'm currently working on Machine Learning Projects
+* 🦾  I'm learning PyTorch
 * 🤝  I'm open to collaborating on Web Scraping or Web Automation Projects
-* ⚡  I watch anime 🌟
+* 🧡  I love cubing
 
 ### Skills
 
