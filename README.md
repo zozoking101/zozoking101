@@ -34,7 +34,7 @@ I'm Zoë Oladokun, a Data Scientist and Backend Developer. I've always been draw
 
 <br><br>
 ![](https://komarev.com/ghpvc/?username=zozoking101&color=orange&style=plastic)
-<br><br>
+<br><br><br><br>
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/zozoking101/Python-Crash-Course-Eric-Matthes-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zozoking101&repo=Python-Crash-Course-Eric-Matthes-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/zozoking101/Python-Web-Scraping-Projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zozoking101&repo=Python-Web-Scraping-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
