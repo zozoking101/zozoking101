@@ -1,17 +1,18 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-====================================================================================================================================
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Data Scientist and Python Developer
+========================================================================================================================================================
 
-I'm Zoë Oladokun, a Data Scientist and Backend Developer. I've always been drawn to coding, starting with HTML and JavaScript and growing into more complex languages like Python. I’m focused on deepening my expertise in data science and machine learning. I aim to become a versatile developer capable of tackling backend systems and cutting-edge AI challenges.
+##### I've always been drawn to coding, starting with HTML and JavaScript and growing into more complex languages like Python. I’m focused on deepening my expertise in data science and machine learning. I aim to become a versatile developer capable of tackling backend systems and cutting-edge AI challenges.
+---
+
+![](https://komarev.com/ghpvc/?username=zozoking101&color=orange&style=plastic)
 
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/zozoking101)
 * ✉️  You can contact me at [zoe.oladokun@gmail.com](mailto:zoe.oladokun@gmail.com)
 * 🚀  I'm currently working on Machine Learning Projects
 * 🦾  I'm learning PyTorch
 * 🤝  I'm open to collaborating on Web Scraping or Web Automation Projects
-* 🧡  I love cubing
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
@@ -32,9 +33,6 @@ I'm Zoë Oladokun, a Data Scientist and Backend Developer. I've always been draw
 
 <a href="https://github.com/zozoking101" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zozoking101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<br><br>
-![](https://komarev.com/ghpvc/?username=zozoking101&color=orange&style=plastic)
-<br><br><br><br>
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/zozoking101/Python-Crash-Course-Eric-Matthes-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zozoking101&repo=Python-Crash-Course-Eric-Matthes-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/zozoking101/Python-Web-Scraping-Projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zozoking101&repo=Python-Web-Scraping-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
