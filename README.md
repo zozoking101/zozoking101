@@ -8,8 +8,8 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/zozoking101)
 * ✉️  You can contact me at [zoe.oladokun@gmail.com](mailto:zoe.oladokun@gmail.com)
-* 🚀  I'm currently working on Machine Learning Projects
-* 🦾  I'm learning PyTorch
+* 🚀  I'm currently working on supervised ML projects
+* 🦾  I'm learning Keras
 * 🤝  I'm open to collaborating on Web Scraping or Web Automation Projects
 
 ### Skills
