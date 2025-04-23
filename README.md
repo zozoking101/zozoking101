@@ -10,7 +10,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 * ✉️  Contact me at [zoe.oladokun@gmail.com](mailto:zoe.oladokun@gmail.com)
 * 🚀   Currently working: on Unsupervised ML projects, University project research...
 * 👨🏽‍🎓  Learning: Node.js, Tensorflow, French
-* 🤝  Open to collaborating on Web Scraping / Web Automation Projects
+* 🤝  Open to collaborating on Web Scraping/Automation Projects
 * 👋🏼      Looking forward to hearing from you
 
 ### Skills
