@@ -1,7 +1,7 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Data Scientist and Python Developer
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Data Scientist and Python Developer here
 ========================================================================================================================================================
 
-##### I've always been drawn to coding, starting with HTML and JavaScript and growing into more complex languages like Python. I’m focused on deepening my expertise in data science and machine learning. I aim to become a versatile developer capable of tackling backend systems and cutting-edge AI challenges.
+##### Writing code has always been my thing—what began with HTML and JavaScript soon evolved into exploring more advanced languages like Python. Lately, I've been sharpening my skills in data science and machine learning. Also working toward becoming the kind of developer who’s just as comfortable building backend systems as navigating the limitless possibilities within AI.
 ---
 
 ![](https://komarev.com/ghpvc/?username=zozoking101&color=orange&style=plastic)
